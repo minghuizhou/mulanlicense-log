@@ -5,7 +5,7 @@
 
 欢迎任何贡献。
 
-[木兰宽松许可证文本](MulanPSL-2.0.txt)
-[木兰公共许可证文本](MulanPubL-2.0.txt)
-[木兰许可证常见问题](FAQ.md)
-[采用木兰许可证的开源项目](ProjectsUsingMulan.md)
+* [木兰宽松许可证文本](MulanPSL-2.0.txt)
+* [木兰公共许可证文本](MulanPubL-2.0.txt)
+* [木兰许可证常见问题](FAQ.md)
+* [采用木兰许可证的开源项目](ProjectsUsingMulan.md)
