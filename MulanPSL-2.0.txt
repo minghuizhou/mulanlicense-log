@@ -1,3 +1,5 @@
+                木兰宽松许可证, 第2版
+
 木兰宽松许可证， 第2版
 2020年1月 http://license.coscl.org.cn/MulanPSL2
 
@@ -6,9 +8,13 @@
 0.   定义
 
 “软件” 是指由“贡献”构成的许可在“本许可证”下的程序和相关文档的集合。
+
 “贡献” 是指由任一“贡献者”许可在“本许可证”下的受版权法保护的作品。
+
 “贡献者” 是指将受版权法保护的作品许可在“本许可证”下的自然人或“法人实体”。
+
 “法人实体” 是指提交贡献的机构及其“关联实体”。
+
 “关联实体” 是指，对“本许可证”下的行为方而言，控制、受控制或与其共同受控制的机构，此处的控制是指有受控方或共同受控方至少50%直接或间接的投票权、资金或其他有价证券。
 
 1.   授予版权许可
@@ -42,7 +48,9 @@
 如果您希望将木兰宽松许可证，第2版，应用到您的新软件，为了方便接收者查阅，建议您完成如下三步：
 
 1， 请您补充如下声明中的空白，包括软件名、软件的首次发表年份以及您作为版权人的名字；
+
 2， 请您在软件包的一级目录下创建以“LICENSE”为名的文件，将整个许可证文本放入该文件中；
+
 3， 请将如下声明文本放入每个源文件的头部注释中。
 
 Copyright (c) [Year] [name of copyright holder]
@@ -56,6 +64,7 @@ MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.
 See the Mulan PSL v2 for more details.
 
 
+                Mulan Permissive Software License，Version 2
 
 Mulan Permissive Software License，Version 2 (Mulan PSL v2)
 January 2020 http://license.coscl.org.cn/MulanPSL2
@@ -65,9 +74,13 @@ Your reproduction, use, modification and distribution of the Software shall be s
 0. Definition
 
 Software means the program and related documents which are licensed under this License and comprise all Contribution(s).
+
 Contribution means the copyrightable work licensed by a particular Contributor under this License.
+
 Contributor means the Individual or Legal Entity who licenses its copyrightable work under this License.
+
 Legal Entity means the entity making a Contribution and all its Affiliates.
+
 Affiliates means entities that control, are controlled by, or are under common control with the acting entity under this License, ‘control’ means direct or indirect ownership of at least fifty percent (50%) of the voting power, capital or other securities of controlled or commonly controlled entity.
 
 1. Grant of Copyright License
