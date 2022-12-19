@@ -1,2 +1,6 @@
-# mulan-license
-records for mulan open source license.
+# 木兰宽松许可证（MulanPSL） 和 木兰公共许可证（MulanPubL） 知识库
+
+这里是 **木兰宽松许可证（MulanPSL）** 和 **木兰公共许可证（MulanPubL）** 的知识库，记录其所有相关信息。
+包括许可证的历史，许可证的特征，开源许可证的使用，采用许可证的开源项目列表等。
+
+欢迎任何贡献。
